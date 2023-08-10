@@ -21,7 +21,8 @@ Fun facts:
 Let's stay in touch:
 - 📧 christinalizx@gmail.com
 - 💼 https://www.linkedin.com/in/zixi-li-3a12b118a/
-- Feel free to reach out for roles and insights, or help :) 
+- Feel free to reach out for roles and insights.
+- If you are transitting or preparing to transit into the field of Technology from Social Science areas and have concerns/questions, feel free to reach out too :)
 
 
 
