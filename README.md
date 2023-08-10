@@ -1,4 +1,5 @@
 ### Hi I'm Christina Zixi Li👋
+![](https://komarev.com/ghpvc/?username=christinalizx&color=green)
 
 - 🏫 Master's in Computer Science candidate at Khoury College of Computer Sciences, Northeastern University, Boston, MA.
 - 💻 Proficient in Python, Java, C, SQL. Well-versed in Object-Oriented concepts, Data Structures, and Algorithms. Now learning Unity and C# under own capacity.
