@@ -3,7 +3,7 @@
 
 - 🏫 Master's in Computer Science candidate at Khoury College of Computer Sciences, Northeastern University, Boston, MA.
 - 💻 Proficient in Python, Java, C, SQL. Well-versed in Object-Oriented concepts, Data Structures, and Algorithms. Now learning Unity and C# under own capacity.
-- 🤖️ Interested in Human-Computer Interaction in promoting general well-being, from both GUI and TUI perspectives.
+- 🤖️ Interested in Human-Computer Interaction in promoting healthcare and patient's well-being, from both GUI and TUI perspectives.
 - ⚙️ Currently working in Relational Agents Group as a Research Assistant.
 - 📑 (Accepted) Towards Automated Pain Assessment using Embodied Conversational Agents (The Third
 International Workshop on Automated Assessment of Pain)
