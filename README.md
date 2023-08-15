@@ -9,6 +9,7 @@
 International Workshop on Automated Assessment of Pain)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christinalizx&layout=donut&theme=holi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=aws,java,c,cs,discord,eclipse,git,github,python,html,idea,latex,linux,mysql,unity,flutter&perline=4)](https://skillicons.dev)
 
 Me Before CS: 
 - ⚖️ Earned a LLB degree in Durham University, College of St'Hild & St'Bede, United Kingdom.
