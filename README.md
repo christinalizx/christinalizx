@@ -5,7 +5,7 @@
 - 💻 Proficient in Python, Java, C, SQL. Well-versed in Object-Oriented concepts, Data Structures, and Algorithms. Now learning Unity and C# under own capacity.
 - 🤖️ Interested in Human-Computer Interaction in promoting general well-being, from both GUI and TUI perspectives.
 - ⚙️ Currently working in Relational Agents Group as a Research Assistant.
-- 📑 (Under Review) Towards Automated Pain Assessment using Embodied Conversational Agents (The Third
+- 📑 (Accepted) Towards Automated Pain Assessment using Embodied Conversational Agents (The Third
 International Workshop on Automated Assessment of Pain)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christinalizx&layout=donut&theme=holi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
