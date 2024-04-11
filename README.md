@@ -13,7 +13,7 @@
 Me Before CS: 
 - ⚖️ Earned a LLB degree in Durham University, College of St'Hild & St'Bede, United Kingdom.
 - ☀️ LLM (Master of Laws) with Graduate Certificate in Technology and Entrepreneurship Law from University of Southern California, LA.
-- 🌲 Possess Chinese Legal Qualification (Since 2020).
+- 🌲 Possessinb Chinese Legal Qualification (Since 2020).
 
 Fun facts:
 - 💬 Mandarin, English, Japanese (Intermediate), and still learning more...
