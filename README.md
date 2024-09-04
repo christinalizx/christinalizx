@@ -1,8 +1,8 @@
 ### Hi I'm Christina Zixi Li👋
 ![](https://komarev.com/ghpvc/?username=christinalizx&color=green)
 
-- 🏫 Master's in Computer Science candidate at Khoury College of Computer Sciences, Northeastern University, Boston, MA.
 - 🏫 PhD Student @ University of Waterloo CS department.
+- 🏫 Master's in Computer Science candidate at Khoury College of Computer Sciences, Northeastern University, Boston, MA.
 - 💻 Proficient in Python, Java, C, SQL. Well-versed in Object-Oriented concepts, Data Structures, and Algorithms. Now learning Unity and C# under own capacity.
 - 🤖️ Interested in Human-Computer Interaction in promoting healthcare and patient's well-being, from both GUI and TUI perspectives.
 - ⚙️ Worked in Relational Agents Group as a Research Assistant.
