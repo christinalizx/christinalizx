@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=christinalizx&color=green)
 
 - 🏫 PhD Student @ University of Waterloo CS. Member of HCI and Health Lab, Waterloo HCI Lab.
-- 🏫 Master's in Computer Science candidate at Khoury College of Computer Sciences, Northeastern University, Boston, MA.
+- 🏫 Master's in Computer Science at Khoury College of Computer Sciences, Northeastern University, Boston, MA.
 - 💻 Proficient in Python, Java, C, SQL. Well-versed in Object-Oriented concepts, Data Structures, and Algorithms. Now learning Unity and C# under own capacity.
 - 🤖️ Specializing in the intersection of Human-Computer Interaction (HCI) and healthcare, I focus on enhancing public health through multi-modal interactive technologies, including conversational agents, virtual and augmented reality, and mobile and web applications.
 - ⚙️ Worked in Relational Agents Group as a Research Assistant.
