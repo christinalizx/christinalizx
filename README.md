@@ -6,7 +6,7 @@
 - 💻 Proficient in Python, Java, C, SQL. Well-versed in Object-Oriented concepts, Data Structures, and Algorithms. Now learning Unity and C# under own capacity.
 - 🤖️ Specializing in the intersection of Human-Computer Interaction (HCI) and healthcare, I focus on enhancing public health through multi-modal interactive technologies, including conversational agents, virtual and augmented reality, and mobile and web applications.
 - ⚙️ Worked in Relational Agents Group as a Research Assistant.
-- 📑 P.Murali, M.Arjmand, M.Volonte, **Z.Li**, J.Griffith, M.Paasche-Orlow, and T.Bickmore. 2023. Towards Automated Pain Assessment using Embodied Conversational Agents. In Companion Publication of the 25th International Conference on Multimodal Interaction (ICMI '23 Companion). Association for Computing Machinery, New York, NY, USA, 131–140. https://doi.org/10.1145/3610661.3617132
+- 📑 [See Google Scholar](https://scholar.google.com/citations?user=4l9OqIgAAAAJ&hl=en)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christinalizx&layout=donut&theme=holi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![My Skills](https://skillicons.dev/icons?i=aws,java,c,cs,discord,eclipse,git,github,python,html,idea,latex,linux,mysql,unity,flutter&perline=4)](https://skillicons.dev)
